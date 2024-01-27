@@ -2,6 +2,7 @@
 # Gallery Photos
 
 Se ha implementado la [API REST de Unplash](https://unsplash.com/developers) y el manejador de estados flutter BLoC.
+
 Y el diseño de Figma se obtubo de la [comundidad.](https://www.figma.com/community/file/1122826989346871198)
 
 La estructura del proyecto es el siguiente:
