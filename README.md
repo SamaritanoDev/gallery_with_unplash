@@ -6,7 +6,7 @@ Se ha implementado la API REST de Unplash y el manejador de estados flutter BLoC
 La estructura del proyecto es el siguiente:
 
 ```bash
-  ├── lib
+├── lib
 │   ├── photos
 │   │   ├── bloc
 │   │   │   └── photo_bloc.dart
