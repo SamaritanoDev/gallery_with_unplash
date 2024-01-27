@@ -48,10 +48,12 @@ Para correr el proyecto:
 
 ## Color Reference
 
+
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Primary | ![#f3edf6](https://via.placeholder.com/10/f3edf6?text=+) #f3edf6 |
 | Secondary | ![#7d5260](https://via.placeholder.com/10/7d5260?text=+) #7d5260 |
+| Tertiary | ![#6c647c](https://via.placeholder.com/10/6c647c?text=+) #6c647c |
 
 
 
